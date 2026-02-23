@@ -32,4 +32,5 @@ def match_jobs(resume_text, top_n=3):
 
     top_jobs = jobs_df.sort_values(by="Similarity", ascending=False).head(top_n)
 
-    return top_jobs[["Job_Title", "Category", "Similarity"]]
+    #return top_jobs[["Job_Title", "Category", "Similarity"]]
+    return top_jobs
