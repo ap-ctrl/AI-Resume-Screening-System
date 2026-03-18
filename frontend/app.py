@@ -1,4 +1,8 @@
 import streamlit as st
+import sys
+import os
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from backend.predict import predict_resume
 from backend.job_matcher import match_jobs
 from backend.skill_gap import analyze_skill_gap
