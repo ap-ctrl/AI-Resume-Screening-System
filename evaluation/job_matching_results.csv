@@ -1,0 +1,22 @@
+resume_id,category,relevant_jobs,top_5_jobs,precision_at_5,recall_at_5,reciprocal_rank
+10554236,ACCOUNTANT,Accountant,Accountant|Legal Advisor|BPO Executive|Healthcare Administrator|Data Analyst,0.2,1.0,1.0
+10186968,ADVOCATE,Legal Advisor,Legal Advisor|Data Analyst|Teacher|Public Relations Officer|BPO Executive,0.2,1.0,1.0
+10953078,AGRICULTURE,Agriculture Specialist,Healthcare Administrator|Teacher|Legal Advisor|Consultant|Public Relations Officer,0.0,0.0,0.0
+11152490,AUTOMOBILE,Automobile Engineer,Teacher|Sales Executive|Data Analyst|BPO Executive|HR Manager,0.0,0.0,0.0
+3547447,BANKING,Banking Officer,Banking Officer|Financial Analyst|Data Analyst|Accountant|Legal Advisor,0.2,1.0,1.0
+11183737,BPO,BPO Executive,BPO Executive|Healthcare Administrator|Construction Manager|HR Manager|Business Development Executive,0.2,1.0,1.0
+10228751,BUSINESS-DEVELOPMENT,Business Development Executive,Healthcare Administrator|Data Analyst|Business Development Executive|Financial Analyst|HR Manager,0.2,1.0,0.3333333333333333
+10001727,CHEF,Chef,Chef|BPO Executive|Sales Executive|Accountant|Healthcare Administrator,0.2,1.0,1.0
+10041713,CONSTRUCTION,Construction Manager,Software Engineer|Data Analyst|Mechanical Engineer|Civil Engineer|Construction Manager,0.2,1.0,0.2
+10332998,CONSULTANT,Consultant,Legal Advisor|Consultant|Business Development Executive|Data Analyst|BPO Executive,0.2,1.0,0.5
+10466583,DESIGNER,UI/UX Designer,UI/UX Designer|BPO Executive|Sales Executive|Chef|Consultant,0.2,1.0,1.0
+10005171,DIGITAL-MEDIA,Digital Marketing Specialist,Public Relations Officer|Digital Marketing Specialist|HR Manager|Sales Executive|Healthcare Administrator,0.2,1.0,0.5
+10030015,ENGINEERING,Civil Engineer|Mechanical Engineer,Mechanical Engineer|Civil Engineer|Automobile Engineer|Machine Learning Engineer|UI/UX Designer,0.4,1.0,1.0
+10549585,FINANCE,Financial Analyst,Software Engineer|Banking Officer|BPO Executive|Consultant|Financial Analyst,0.2,1.0,0.2
+10235429,FITNESS,Fitness Trainer,Fitness Trainer|Data Analyst|Sales Executive|Business Development Executive|Chef,0.2,1.0,1.0
+10062724,HEALTHCARE,Healthcare Administrator,Data Analyst|Healthcare Administrator|Legal Advisor|Fitness Trainer|BPO Executive,0.2,1.0,0.5
+10399912,HR,HR Manager,Data Analyst|HR Manager|Legal Advisor|Software Engineer|Accountant,0.2,1.0,0.5
+10089434,INFORMATION-TECHNOLOGY,Data Analyst|Machine Learning Engineer|Software Engineer,Software Engineer|Data Analyst|Healthcare Administrator|Digital Marketing Specialist|BPO Executive,0.4,0.6666666666666666,1.0
+10070224,PUBLIC-RELATIONS,Public Relations Officer,Public Relations Officer|Digital Marketing Specialist|Financial Analyst|Sales Executive|Data Analyst,0.2,1.0,1.0
+10138632,SALES,Sales Executive,Sales Executive|Business Development Executive|Consultant|BPO Executive|HR Manager,0.2,1.0,1.0
+10504237,TEACHER,Teacher,Teacher|Agriculture Specialist|Fitness Trainer|Business Development Executive|Machine Learning Engineer,0.2,1.0,1.0

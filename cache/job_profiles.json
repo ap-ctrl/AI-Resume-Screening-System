@@ -1,0 +1,431 @@
+[
+    {
+        "Job_Title": "Software Engineer",
+        "Category": "INFORMATION-TECHNOLOGY",
+        "Job_Description": "Looking for a software engineer skilled in Python, Java, data structures, algorithms, backend development, REST APIs, SQL databases, cloud deployment, system design, debugging, and scalable application development.",
+        "required_skills": [
+            "Python",
+            "Java",
+            "data structures",
+            "algorithms",
+            "backend development",
+            "REST API",
+            "SQL databases",
+            "cloud deployment",
+            "System Design",
+            "debugging",
+            "scalable application development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Machine Learning Engineer",
+        "Category": "INFORMATION-TECHNOLOGY",
+        "Job_Description": "Seeking a machine learning engineer experienced in Python, TensorFlow, scikit-learn, data preprocessing, model training, deep learning, NLP, computer vision, statistical analysis, and deploying ML models in production.",
+        "required_skills": [
+            "Python",
+            "TensorFlow",
+            "Scikit-learn",
+            "Data Preprocessing",
+            "model training",
+            "Deep Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Statistical Analysis",
+            "deploying ML models in production"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Data Analyst",
+        "Category": "INFORMATION-TECHNOLOGY",
+        "Job_Description": "Hiring a data analyst proficient in SQL, Python, Excel, Power BI, Tableau, data visualization, data cleaning, reporting dashboards, statistical analysis, and business intelligence insights.",
+        "required_skills": [
+            "SQL",
+            "Python",
+            "Excel",
+            "Power BI",
+            "Tableau",
+            "Data Visualization",
+            "Data Cleaning",
+            "reporting dashboards",
+            "Statistical Analysis",
+            "business intelligence insights"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Accountant",
+        "Category": "ACCOUNTANT",
+        "Job_Description": "Seeking an accountant experienced in taxation, auditing, financial reporting, GST compliance, income statements, balance sheets, bookkeeping, budgeting, payroll processing, and financial analysis.",
+        "required_skills": [
+            "taxation",
+            "auditing",
+            "financial reporting",
+            "GST compliance",
+            "income statements",
+            "balance sheets",
+            "bookkeeping",
+            "budgeting",
+            "payroll processing",
+            "financial analysis"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Financial Analyst",
+        "Category": "FINANCE",
+        "Job_Description": "Looking for a financial analyst skilled in financial modeling, forecasting, budgeting, risk analysis, investment analysis, financial planning, Excel, reporting, and performance tracking.",
+        "required_skills": [
+            "financial modeling",
+            "forecasting",
+            "budgeting",
+            "risk analysis",
+            "investment analysis",
+            "financial planning",
+            "Excel",
+            "reporting",
+            "performance tracking"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Digital Marketing Specialist",
+        "Category": "DIGITAL-MEDIA",
+        "Job_Description": "Hiring a digital marketing specialist with experience in SEO, Google Ads, social media marketing, content creation, campaign management, analytics, keyword research, branding strategy, and performance marketing.",
+        "required_skills": [
+            "SEO",
+            "Google Ads",
+            "social media marketing",
+            "content creation",
+            "campaign management",
+            "analytics",
+            "keyword research",
+            "branding strategy",
+            "performance marketing"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "HR Manager",
+        "Category": "HR",
+        "Job_Description": "Looking for an HR manager experienced in recruitment, talent acquisition, payroll management, employee engagement, training and development, performance appraisal, HR policies, and workforce planning.",
+        "required_skills": [
+            "recruitment",
+            "talent acquisition",
+            "payroll management",
+            "employee engagement",
+            "training and development",
+            "performance appraisal",
+            "HR policies",
+            "workforce planning"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Business Development Executive",
+        "Category": "BUSINESS-DEVELOPMENT",
+        "Job_Description": "Seeking a business development executive skilled in market research, client acquisition, sales strategy, revenue growth, lead generation, negotiation, partnership management, and business expansion planning.",
+        "required_skills": [
+            "market research",
+            "client acquisition",
+            "sales strategy",
+            "revenue growth",
+            "lead generation",
+            "negotiation",
+            "partnership management",
+            "business expansion planning"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Civil Engineer",
+        "Category": "ENGINEERING",
+        "Job_Description": "Hiring a civil engineer with expertise in structural design, construction management, AutoCAD, site supervision, project planning, material testing, safety regulations, and infrastructure development.",
+        "required_skills": [
+            "structural design",
+            "construction management",
+            "AutoCAD",
+            "site supervision",
+            "project planning",
+            "material testing",
+            "safety regulations",
+            "infrastructure development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Mechanical Engineer",
+        "Category": "ENGINEERING",
+        "Job_Description": "Looking for a mechanical engineer experienced in CAD design, manufacturing processes, thermodynamics, machine design, product development, quality control, and industrial automation.",
+        "required_skills": [
+            "CAD design",
+            "manufacturing processes",
+            "thermodynamics",
+            "machine design",
+            "product development",
+            "quality control",
+            "industrial automation"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Teacher",
+        "Category": "TEACHER",
+        "Job_Description": "Seeking a teacher proficient in curriculum development, lesson planning, classroom management, student assessment, academic mentoring, communication skills, and subject matter expertise.",
+        "required_skills": [
+            "curriculum development",
+            "lesson planning",
+            "classroom management",
+            "student assessment",
+            "academic mentoring",
+            "communication skills",
+            "subject matter expertise"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Healthcare Administrator",
+        "Category": "HEALTHCARE",
+        "Job_Description": "Hiring a healthcare administrator experienced in hospital management, patient records, compliance regulations, healthcare operations, medical billing, staff coordination, and healthcare systems management.",
+        "required_skills": [
+            "hospital management",
+            "patient records",
+            "compliance regulations",
+            "healthcare operations",
+            "medical billing",
+            "staff coordination",
+            "healthcare systems management"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Banking Officer",
+        "Category": "BANKING",
+        "Job_Description": "Looking for a banking officer skilled in financial services, loan processing, customer relationship management, risk assessment, credit analysis, regulatory compliance, and banking operations.",
+        "required_skills": [
+            "financial services",
+            "loan processing",
+            "customer relationship management",
+            "risk assessment",
+            "credit analysis",
+            "regulatory compliance",
+            "banking operations"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Public Relations Officer",
+        "Category": "PUBLIC-RELATIONS",
+        "Job_Description": "Seeking a public relations officer experienced in media communication, brand management, press releases, event coordination, corporate communication, crisis management, and public engagement.",
+        "required_skills": [
+            "media communication",
+            "brand management",
+            "press releases",
+            "event coordination",
+            "corporate communication",
+            "crisis management",
+            "public engagement"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Sales Executive",
+        "Category": "SALES",
+        "Job_Description": "Hiring a sales executive skilled in lead generation, customer relationship management, negotiation, target achievement, revenue growth, client presentations, and sales strategy development.",
+        "required_skills": [
+            "lead generation",
+            "customer relationship management",
+            "negotiation",
+            "target achievement",
+            "revenue growth",
+            "client presentations",
+            "sales strategy development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Legal Advisor",
+        "Category": "ADVOCATE",
+        "Job_Description": "Looking for a legal advisor experienced in contract drafting, legal research, litigation support, compliance management, corporate law, legal documentation, and dispute resolution.",
+        "required_skills": [
+            "contract drafting",
+            "legal research",
+            "litigation support",
+            "compliance management",
+            "corporate law",
+            "legal documentation",
+            "dispute resolution"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "UI/UX Designer",
+        "Category": "DESIGNER",
+        "Job_Description": "Seeking a UI/UX designer proficient in Figma, Adobe XD, wireframing, prototyping, user research, usability testing, visual design, interaction design, and responsive interface development.",
+        "required_skills": [
+            "Figma",
+            "Adobe XD",
+            "wireframing",
+            "prototyping",
+            "user research",
+            "usability testing",
+            "visual design",
+            "interaction design",
+            "responsive interface development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Chef",
+        "Category": "CHEF",
+        "Job_Description": "Hiring a chef experienced in culinary arts, menu planning, food preparation, kitchen management, food safety standards, recipe development, and restaurant operations.",
+        "required_skills": [
+            "culinary arts",
+            "menu planning",
+            "food preparation",
+            "kitchen management",
+            "food safety standards",
+            "recipe development",
+            "restaurant operations"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Automobile Engineer",
+        "Category": "AUTOMOBILE",
+        "Job_Description": "Looking for an automobile engineer skilled in vehicle design, automotive systems, mechanical components, engine testing, CAD modeling, quality assurance, and automotive manufacturing processes.",
+        "required_skills": [
+            "vehicle design",
+            "automotive systems",
+            "mechanical components",
+            "engine testing",
+            "CAD modeling",
+            "quality assurance",
+            "automotive manufacturing processes"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Agriculture Specialist",
+        "Category": "AGRICULTURE",
+        "Job_Description": "Seeking an agriculture specialist experienced in crop management, soil analysis, irrigation systems, agricultural research, farm operations, agronomy, and sustainable farming techniques.",
+        "required_skills": [
+            "crop management",
+            "soil analysis",
+            "irrigation systems",
+            "agricultural research",
+            "farm operations",
+            "agronomy",
+            "sustainable farming techniques"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Construction Manager",
+        "Category": "CONSTRUCTION",
+        "Job_Description": "Hiring a construction manager skilled in project planning, site supervision, budgeting, safety compliance, contractor coordination, construction scheduling, and infrastructure development.",
+        "required_skills": [
+            "project planning",
+            "site supervision",
+            "budgeting",
+            "safety compliance",
+            "contractor coordination",
+            "construction scheduling",
+            "infrastructure development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Fitness Trainer",
+        "Category": "FITNESS",
+        "Job_Description": "Looking for a fitness trainer experienced in personal training, workout planning, nutrition guidance, strength training, fitness assessment, and health improvement programs.",
+        "required_skills": [
+            "personal training",
+            "workout planning",
+            "nutrition guidance",
+            "strength training",
+            "fitness assessment",
+            "health improvement programs"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "BPO Executive",
+        "Category": "BPO",
+        "Job_Description": "Seeking a BPO executive skilled in customer support, call handling, client communication, CRM tools, problem resolution, service quality assurance, and process management.",
+        "required_skills": [
+            "customer support",
+            "call handling",
+            "client communication",
+            "CRM tools",
+            "problem resolution",
+            "service quality assurance",
+            "process management"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    },
+    {
+        "Job_Title": "Consultant",
+        "Category": "CONSULTANT",
+        "Job_Description": "Hiring a consultant experienced in business strategy, process optimization, performance analysis, client advisory, market research, financial planning, and organizational development.",
+        "required_skills": [
+            "business strategy",
+            "process optimization",
+            "performance analysis",
+            "client advisory",
+            "market research",
+            "financial planning",
+            "organizational development"
+        ],
+        "preferred_skills": [],
+        "experience": "",
+        "education": ""
+    }
+]
